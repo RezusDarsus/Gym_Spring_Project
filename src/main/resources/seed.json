@@ -1,0 +1,46 @@
+{
+  "trainees": [
+    {
+      "firstName": "Liam",
+      "lastName": "Anderson",
+      "dateOfBirth": "1996-06-15",
+      "address": "789 Elm St"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Williams",
+      "dateOfBirth": "1998-09-25",
+      "address": "321 Oak Ave"
+    }
+  ],
+  "trainers": [
+    {
+      "firstName": "Michael",
+      "lastName": "Davis",
+      "specialization": "Yoga"
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "White",
+      "specialization": "Pilates"
+    }
+  ],
+  "trainings": [
+    {
+      "traineeId": 2,
+      "trainerId": 4,
+      "trainingName": "Yoga for Beginners",
+      "trainingType": "Yoga",
+      "trainingDate": "2025-04-05",
+      "trainingDurationMinutes": 75
+    },
+    {
+      "traineeId": 1,
+      "trainerId": 3,
+      "trainingName": "Advanced Pilates",
+      "trainingType": "Pilates",
+      "trainingDate": "2025-04-12",
+      "trainingDurationMinutes": 50
+    }
+  ]
+}
